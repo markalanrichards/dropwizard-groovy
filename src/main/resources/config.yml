@@ -1,0 +1,2 @@
+template: ${DW_TEMPLATE}
+defaultSetting: ${DW_DEFAULT_SETTING:-default value}
